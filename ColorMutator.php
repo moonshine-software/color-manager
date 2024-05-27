@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace MoonShine\ColorManager;
 
-final class Colors
+final class ColorMutator
 {
     public static function toHEX(string $value): string
     {
